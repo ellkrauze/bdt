@@ -1,8 +1,6 @@
 # Mushrooms Family Classification
 ITMO course project for Big Data Infrastructure subject
 
-# Mushroom Family Classification
-
 This repository contains the code and resources for a project on mushroom family classification. The goal of the project is to develop a model that can predict the family of a mushroom species based on its image and taxonomic features.
 
 ## Dataset
